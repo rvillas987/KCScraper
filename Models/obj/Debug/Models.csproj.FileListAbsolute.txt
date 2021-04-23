@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Models\bin\Debug\Models.dll
+C:\Users\User\source\repos\Models\bin\Debug\Models.pdb
+C:\Users\User\source\repos\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Models\obj\Debug\Models.dll
+C:\Users\User\source\repos\Models\obj\Debug\Models.pdb
+C:\Users\User\source\repos\KCScraper\Reference\Models.dll
+C:\Users\User\source\repos\KCScraper\Reference\Models.pdb
